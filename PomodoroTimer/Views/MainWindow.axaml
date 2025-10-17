@@ -29,7 +29,7 @@
             </ExperimentalAcrylicBorder.Material>
         </ExperimentalAcrylicBorder>
 
-        <!-- FOREGROUND -->
+        <!-- FOREGROUN -->
         <Grid
             RowDefinitions="Auto, Auto"
             ColumnDefinitions="Auto, Auto"
