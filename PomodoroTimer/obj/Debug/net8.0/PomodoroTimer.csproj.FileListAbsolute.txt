@@ -80,3 +80,4 @@
 /Users/armanaslanyan/Desktop/avalonia/PomodoroTimer/PomodoroTimer/bin/Debug/net8.0/Svg.Custom.dll
 /Users/armanaslanyan/Desktop/avalonia/PomodoroTimer/PomodoroTimer/bin/Debug/net8.0/Svg.Model.dll
 /Users/armanaslanyan/Desktop/avalonia/PomodoroTimer/PomodoroTimer/bin/Debug/net8.0/Svg.Skia.dll
+/Users/armanaslanyan/Desktop/avalonia/PomodoroTimer/PomodoroTimer/obj/Debug/net8.0/PomodoroTimer.sourcelink.json

@@ -29,7 +29,7 @@
             </ExperimentalAcrylicBorder.Material>
         </ExperimentalAcrylicBorder>
 
-        <!-- FOREGROUN -->
+        <!-- FOREGROUND -->
         <Grid
             RowDefinitions="Auto, Auto"
             ColumnDefinitions="Auto, Auto"
@@ -44,7 +44,7 @@
                        FontWeight="Bold"
                        HorizontalAlignment="Center"
                        VerticalAlignment="Center"/>
-
+        
             <!-- SKIP ICON (next to timer) -->
             <Button Grid.Row="0" Grid.Column="1"
                     Command="{Binding SkipCommand}"
